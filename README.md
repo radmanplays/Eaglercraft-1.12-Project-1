@@ -1,5 +1,6 @@
 # Eaglercraft 1.12 Project
 - files are gone due to copyright!
+- Join the offical eaglercraft server https://discord.gg/XDSntpsKZW
 
 ![EaglercraftX 1.12 Screenshot Main Menu](https://media.discordapp.net/attachments/1042594789943689327/1057655404454223932/eaglerx-480p.png)
 
