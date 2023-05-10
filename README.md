@@ -1,7 +1,7 @@
 # Eaglercraft 1.12 Project
 - files are gone due to copyright!
 # New Discord Server
-- Join the new server https://discord.gg/k7U7Trt6XH
+- Join the new server [discord.gg/Hk9uY98M7Z](https://discord.gg/Hk9uY98M7Z)
 
 ![EaglercraftX 1.12 Screenshot Main Menu](https://media.discordapp.net/attachments/1042594789943689327/1057655404454223932/eaglerx-480p.png)
 
